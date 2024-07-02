@@ -1,0 +1,37 @@
+.sobre-content {
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .sobre-content h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .sobre-content h2 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #555;
+  }
+  
+  .sobre-content p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    color: #666;
+    text-align: justify;
+  }
+  
+  .sobre-content ul {
+    padding-left: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .sobre-content ul li {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  

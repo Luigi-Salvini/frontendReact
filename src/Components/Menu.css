@@ -1,0 +1,31 @@
+header {
+  background-color: #333;
+  padding: 10px 0;
+}
+
+nav {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  transition: background-color 0.3s ease;
+}
+
+ul li a:hover {
+  background-color: #555;
+}
